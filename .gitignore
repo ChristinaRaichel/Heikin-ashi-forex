@@ -1,0 +1,17 @@
+*.cpython
+*.csh
+*.ps1
+*.fish
+*lib*
+*pip*
+*cfg
+*python*
+*activate
+*pyft*
+*f2*
+fonttools*
+*ttx*
+*normalizer*
+*numpy*
+*dotenv*
+.env
